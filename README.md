@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dominiq21
-- 👀 I’m interested in Digital control systems
+- 👀 I’m interested in digital control systems
 - 🌱 I’m currently learning Automation and Robotics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
